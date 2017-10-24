@@ -8,7 +8,7 @@
 
 # xico
 - typo 1
-- tyypo 2
+- typo 2
 - typo 3
 - typoo 4
 
