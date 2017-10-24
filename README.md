@@ -1,7 +1,7 @@
 # pr-test-repo
 
 # naia
-- ttypo 1
+- typo 1 # dam errors
 - typo 2 # no errors here pls
 - typpo 3
 - typoo 4
