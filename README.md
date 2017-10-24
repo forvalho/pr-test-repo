@@ -4,7 +4,7 @@
 - typo 1 # dam errors
 - typo 2 # no errors here pls
 - typo 3 # you really sure this is a typo?
-- typoo 4
+- tyoo 4 # alas, no typpos!
 
 # xico
 - typo 1
