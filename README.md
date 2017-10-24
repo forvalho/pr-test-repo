@@ -3,7 +3,7 @@
 # naia
 - typo 1 # dam errors
 - typo 2 # no errors here pls
-- typpo 3
+- typo 3 # you really sure this is a typo?
 - typoo 4
 
 # xico
