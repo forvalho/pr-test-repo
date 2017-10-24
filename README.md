@@ -2,7 +2,7 @@
 
 # naia
 - ttypo 1
-- tyypo 2
+- typo 2 # no errors here pls
 - typpo 3
 - typoo 4
 
